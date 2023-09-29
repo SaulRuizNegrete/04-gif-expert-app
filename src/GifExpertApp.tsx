@@ -25,7 +25,7 @@ export const GifExpertApp = () => {
             />
 
             {/**Listado de Gif */}
-            <button onClick={onAddCategory}>Agregar</button>
+            <button aria-label='btn-add' onClick={onAddCategory}>Agregar</button>
 
             {
                 categories.map(category => (
