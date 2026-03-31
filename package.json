@@ -34,7 +34,7 @@
     "jest-environment-jsdom": "^29.7.0",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.2",
-    "vite": "^4.4.5",
+    "vite": "^5.4.21",
     "whatwg-fetch": "^3.6.19"
   }
 }
